@@ -1,0 +1,693 @@
+@charset "UTF-8";
+
+@media (min-width: 991px) and (max-width: 1199px) {
+    .single_post_banner_details {
+        max-width: 720px;
+    }
+    
+    .single_post_banner_details .post_banner_title {
+        font-size: 30px;
+    }
+
+    .single_post_banner_details .post_banner_description {
+        font-size: 18px;
+    }
+
+    .single_post_banner_details .post_banner_facilities {
+        bottom: -36px;
+        padding: 20px 0;
+    }
+
+    .single_post_banner_details .post_banner_facilities p { 
+        font-size: 16px;
+        padding: 0 18px;
+    }
+
+    .corporate-details-card-detalis {
+        width: 33.3%;
+        margin-bottom: 10px;
+    }
+
+    .corporate-details-card-detalis-arrow {
+        width: 100%;
+        margin-top: 1%;
+    }
+
+    .mob-corporate-img {
+        display: none;
+    }
+
+    .res-mob-corporate-img {
+        display: block;
+        width: 20%;
+    }
+
+    .corporate-details-card-detalis {
+        display: block;
+        margin: 0 auto;
+    }
+
+    .algo_menu_social_icon {
+        margin-left: 7px;
+    }
+}
+
+@media (min-width: 767px) and (max-width: 990px) {
+    .single_post_banner_details {
+        max-width: 720px;
+    }
+
+    .top_course_description {
+        max-width: 720px;
+    }
+
+    .single_post_banner_details .post_banner_title {
+        font-size: 30px;
+        margin-top: 0;
+        margin-bottom: 0;
+    }
+
+    .corporate-details-card-detalis {
+        width: 33.3%;
+        margin-bottom: 10px;
+    }
+
+    .corporate-details-card-detalis-arrow {
+        width: 100%;
+        margin-top: 1%;
+    }
+
+    .res-mob-corporate-img {
+        display: block;
+        width: 20%;
+    }
+
+    .corporate-details-card-detalis {
+        display: block;
+        margin: 0 auto;
+    }
+
+    .about_us_bg_image {
+        padding: 60px 60px !important;
+    }
+
+}
+
+@media (min-width: 576px) and (max-width: 766px) {
+    
+    .single_post_banner_details {
+        max-width: 500px;
+    }
+
+    .single_post_banner_details .post_banner_title {
+        font-size: 30px;
+        margin-top: 0;
+        margin-bottom: 0;
+    }
+
+    .top_course_description {
+        max-width: 520px;
+    }
+
+    .algoritmo_keyfeatures_section {
+        padding: 100px 0 30px 0;
+    }
+
+    .algoritmo_about_services p {
+        font-size: 19px;
+        margin-bottom: 0;
+    }
+
+    .algoritmo_all_services {
+        margin-top: 50px;
+    }
+
+    .single_service_enable_bg {
+        margin-bottom: 25px;
+    }
+
+    .single_service_disable_bg {
+        margin-bottom: 25px;
+        background-color: #fff;
+        -webkit-box-shadow: 0 5px 25px rgba(0, 0, 0, 0.2);
+        box-shadow: 0 5px 25px rgba(0, 0, 0, 0.1);
+        -moz-box-shadow: 0 5px 25px rgba(0, 0, 0, 0.2);
+    }
+
+    .single_keyfeature_wrapper {
+        min-height: 214px;
+    }
+
+    .deployment_model_wrapper {
+        margin-bottom: 55px;
+    }
+
+    .corporate-details-card-detalis {
+        width: 50%;
+        display: block;
+        margin: 0 auto;
+        margin-bottom: 40px;
+    }
+
+    .corporate-details-card-detalis-arrow {
+        width: 100%;
+        margin-top: 1%;
+    }
+
+    .res-mob-corporate-img {
+        display: block;
+        width: 20%;
+    }
+}
+
+@media (min-width: 480px) and (max-width: 575px) {
+    
+    .single_post_banner_details {
+        max-width: 430px;
+    }
+
+    .single_post_banner_details .post_banner_title {
+        font-size: 22px;
+        margin-top: 0;
+        margin-bottom: 0;
+    }
+
+    .top_course_description {
+        max-width: 430px;
+    }
+    
+}
+
+@media (min-width: 320px) and (max-width: 480px) {
+
+    .single_post_banner_details {
+        max-width: 430px;
+    }
+
+    .single_post_banner_details .post_banner_title {
+        font-size: 16px;
+        margin-top: 0;
+        margin-bottom: 0;
+    }
+
+    .top_course_description {
+        max-width: 300px;
+    }
+
+    .res_post_banner_facilities {
+        padding-top: 15px;
+    }
+
+    .res_post_banner_facilities p {
+        display: block;
+        text-align: left;
+        padding: 0 10px;
+    }
+
+    .res_post_banner_facilities p:after{
+        content: "";
+    }
+
+    .blog_content_container {
+        padding: 0;
+    }
+
+    .algo_single_blog_title {
+        font-size: 18px;
+    }
+
+    .algo_admin_single {
+        margin-bottom: 0;
+    }
+
+    .algo_date_single {
+        margin-bottom: 0;
+    }
+
+    .single_recent_post .single_recent_post_link img {
+        height: 100px;
+    }
+
+    .algo_single_blog_title {
+        margin-top: 14px;
+        margin-bottom: 15px;
+    }
+
+    .algo_blog_share {
+        width: 100%;
+        margin-left: 0;
+        margin-top: 15px;
+    }
+    
+    .all_latest_post_title h1 {
+        font-size: 22px;
+        text-align: center;
+        margin-bottom: 25px;
+    }
+
+    #wpdcom .wpd-form-head {
+        padding: 7px 15px 9px 15px;
+    }
+
+    #wpdcom .wpd-form .wpdiscuz-textarea-wrap {
+        padding: 20px 15px;
+    }
+}
+
+@media (min-width: 320px) and (max-width: 1199px) {
+    .algo-navbar-brand img {
+        max-width: 120px;
+    }
+
+    .algoritmo_single_post_main_container {
+        position: relative;
+        margin-top: 72px;
+    }
+
+    .menu-algoritmo_primary_menu-container {
+        display: block;
+        margin-top: 20px;
+    }
+
+    .algo-navbar-light .algo-navbar-nav .algo-nav-link {
+        padding: 10px 15px;
+    }
+
+    .keyfeatures_title_wrapper h2:after {
+        left: 42%;
+        right: 45%;
+    }
+}
+
+@media (min-width: 320px) and (max-width: 992px) {
+    .algo_menu_social_icon {
+        margin-left: 7px;
+    }
+
+    .single_post_banner_details {
+        height: auto;
+        position: absolute;
+        left: 50%;
+        top: 50%;
+        transform: translate(-50%, -50%);
+    }
+
+    .res_post_banner_facilities p::after {
+        content: "";
+    }
+    
+    .res_post_banner_facilities p::before {
+        content: "\f058";
+        font: normal normal normal 14px/1 FontAwesome;
+        color: #00B4D6;
+        font-size: 16px;
+        position: absolute;
+        left: 0;
+        top: 5px;
+    }
+
+    .res_post_banner_facilities p {
+        padding: 0 20px;
+        min-width: 200px;
+    }
+
+    .post_banner_description {
+        display: none;
+    }
+
+    .post_banner_facilities {
+        display: none;
+    }
+    
+    .res_post_banner_description {
+        display: block;
+    }
+
+    .res_post_banner_facilities {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .top_course_description {
+        margin: 0 auto;
+        text-align: center;
+        margin-top: 50px;
+        margin-bottom: 0;
+    }
+
+    .big_data_list_container {
+        margin-top: 60px;
+    }
+
+    .big_data_image_wrapper_res {
+        display: block;
+        padding: 0;
+        order: 1;
+    }
+
+    .big_data_image_wrapper {
+        display: none;
+    }
+
+    .mob-corporate-img {
+        display: none;
+    }
+
+    .res-mob-corporate-img {
+        display: block;
+    }
+
+    #scroll_top {
+        bottom: 80px;
+        right: 21px;
+    }
+}
+
+@media (min-width: 320px) and (max-width: 767px) {
+    .pr-45-res {
+        padding-right: 15px;
+    }
+
+    .pl-45-res {
+        padding-left: 15px;
+    }
+
+    .res-pt-4 {
+        padding-top: 40px;
+    }
+
+    .responsive-d-none {
+        display: none;
+    }
+
+    .blog_page_banner {
+        margin-bottom: 60px;
+    }
+
+    .sing_post_thumbnail img {
+        min-height: 130px;
+        max-height: 130px;
+    }
+    
+    .algo_admin {
+        margin-bottom: 10px;
+    }
+
+    .algo_date {
+        margin-bottom: 10px;
+    }
+
+    .algo_single_blog_res_search .search-form label {
+        margin-bottom: 20px !important;
+        width: 100% !important;
+    }
+
+    .algo_single_blog_res_search .search-form {
+        display: block;
+    }
+
+    .algo_single_blog_res_search .search-form .search-field {
+        height: 40px !important;
+    }
+
+    .algo_search_desktop .search-form {
+        display: none;
+    }
+
+    .single_blog_all_category {
+        margin-top: 0;
+    }
+
+    .course_overview_image {
+        width: 100%;
+        max-width: 320px;
+        display: block;
+        margin: 25px auto 25px auto;
+    }
+
+    .algoritmo_course_other_container {
+        padding-top: 0;
+    }
+
+    .algoritmo_text_analytics_section {
+        padding: 50px 15px 0 15px;
+    }
+
+    .algoritmo_analytics_section {
+        padding: 40px 15px 0 15px;
+    }
+
+    .big_data_list {
+        padding: 10px;
+    }
+
+    .corporate_service_enable_bg {
+        margin-bottom: 25px;
+    }
+
+    .corporate_service_disable_bg {
+        background-color: #fff;
+        -webkit-box-shadow: 0 5px 25px rgba(0, 0, 0, 0.2);
+        box-shadow: 0 5px 25px rgba(0, 0, 0, 0.1);
+        -moz-box-shadow: 0 5px 25px rgba(0, 0, 0, 0.2);
+        border: 2px solid #fff;
+        margin-bottom: 25px;
+    }
+
+    .algoritmo_faculty_section {
+        padding: 0;
+    }
+
+    .faculty_member_1 {
+        padding: 25px 25px;
+    }
+
+    .faculty_member_2 {
+        padding: 25px 25px;
+    }
+    
+    .faculty_member_3 {
+        padding: 25px 25px;
+    }
+
+    .faculty_details_group {
+        display: block;
+    }
+    
+    .faculty_member_photo_section {
+        margin-right: 0;
+        margin-bottom: 10px;
+    }
+
+    .algo_faculty_name {
+        text-align: center;
+    }
+
+    .faculty_member_designation {
+        margin-top: 15px;
+    }
+
+    .algo_single_blog_content {
+        margin-bottom: 50px;
+    }
+    
+    .single_thumbnail_wrapper {
+        margin-bottom: 25px;
+    }
+
+    .algo_single_blog_sidebar {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+    .recent_post_title {
+        margin-top: 0;
+        padding-top: 0;
+    }
+
+    .recent_post_title::after {
+        top: 35px
+    }
+
+    .algo-page-content p {
+        font-family: 'Spartan', sans-serif !important;
+        font-weight: 600;
+        font-size: 20px;
+    }
+    
+    .about_us_bg_image {
+        padding: 25px 25px !important;
+    }
+
+    .algoritmo_aboutus_section {
+        padding: 40px 0 0 0;
+    }
+    
+    .aboutus_small_description_image {
+        padding-left: 15px;
+    }
+    
+    .algoritmo_form_pay_container {
+        padding-top: 50px;
+    }
+    
+    .algoritmo_subscription_form_container {
+        margin-bottom: 20px;
+        padding: 35px 20px 15px 20px;
+    }
+    
+    .algoritmo_certificate_section {
+        margin-top: 0;
+        padding-top: 25px;
+    }
+    
+    .course_certificate_image_container {
+        padding-left: 15px;
+        margin-top: 25px;
+    }
+}
+
+@media (min-width: 320px) and (max-width: 575px) {
+
+    .post_px_0 {
+        padding-left: 15px !important;
+        padding-right: 15px !important;
+    }
+
+    .sing_post_box {
+        box-shadow: none;
+        border: 1px solid #cccccc;
+    }
+
+    .single_post_banner_details .post_banner_title p {
+        padding: 0 25px;
+    }
+
+    .blog_post_body_content {
+        padding: 15px 20px;
+    }
+
+    .algoritmo_services_section {
+        padding: 40px 0;
+    }
+
+    .algoritmo_about_services p {
+        font-size: 18px;
+        font-weight: 700;
+    }
+
+    .algoritmo_all_services {
+        margin-top: 0.5rem;
+    }
+
+    .single_service_enable_bg {
+        margin-bottom: 25px;
+    }
+
+    .single_service_disable_bg {
+        margin-bottom: 25px;
+        background-color: #fff;
+        -webkit-box-shadow: 0 5px 25px rgba(0, 0, 0, 0.2);
+        box-shadow: 0 5px 25px rgba(0, 0, 0, 0.1);
+        -moz-box-shadow: 0 5px 25px rgba(0, 0, 0, 0.2);
+    }
+
+    .single_service_icon img {
+        display: block;
+        margin: 0 auto 30px auto;
+    }
+
+    .single_service_title h4 {
+        text-align: center;
+        margin-bottom: 15px;
+    }
+
+    .single_service_description p {
+        text-align: center;
+    }
+
+    .algoritmo_keyfeatures_section {
+        padding: 40px 0;
+    }
+
+    .keyfeatures_title_wrapper h2 {
+        font-size: 27px;
+        margin-bottom: 10px;
+    }
+
+    .single_keyfeature_wrapper h4 {
+        font-size: 18px;
+        font-weight: 600;
+    }
+
+    .deployment_model_container {
+        margin-top: 0;
+    }
+
+    .algoritmo_deployment_model_section {
+        margin-bottom: 0 !important;
+    }
+
+    .deployment_model_wrapper {
+        margin-bottom: 50px;
+    }
+
+    .deployment_model_wrapper p {
+        font-size: 16px;
+        margin-bottom: 15px;
+    }
+
+    .deployment_model_wrapper p::before {
+        font-size: 16px;
+    }
+
+    .footer_section p {
+        font-size: 15px;
+    }
+
+    .corporate-details-card-detalis {
+        width: 100%;
+        margin-bottom: 25px;
+    }
+
+    .corporate-details-card-detalis-arrow {
+        width: 35%;
+        margin: 0 auto;
+    }
+
+    .corporate-details-card {
+        min-height: auto;
+    }
+
+    .about_us_bg_container {
+        padding: 30px 30px 18px 30px;
+    }
+    
+    .algo_blog_post_top_details {
+        padding: 10px 25px 5px 25px;
+        display: block;
+    }
+    
+    .blog_post_details_wrapper {
+        display: block;
+    }
+    
+    .algo_admin_single {
+        margin-bottom: 12px;
+    }
+    
+    .algo_date_single {
+        margin-bottom: 2px;
+    }
+    
+    .algo_category_single {
+        display: inline-block;
+        margin-bottom: 8px;
+    }
+    
+    .blog_post_details_wrapper .post_details_i {
+        margin-right: 7px;
+        font-size: 14px;
+    }
+}
